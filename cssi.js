@@ -1,3 +1,3 @@
 <script>
-  alert(window.name)
+  alert(window.name);
 </script>
